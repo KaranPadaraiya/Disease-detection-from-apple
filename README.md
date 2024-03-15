@@ -1,4 +1,4 @@
-# Disease Detection in Apple Using Image Processing Techniques
+# Diseased Apple detection Using Image Processing Techniques
 
 This project focuses on the detection of diseases in apple trees using image processing techniques. It is aimed at helping farmers identify and manage diseases effectively to improve crop yield and quality.
 
