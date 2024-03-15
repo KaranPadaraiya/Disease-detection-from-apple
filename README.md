@@ -15,7 +15,7 @@ The project utilizes a dataset consisting of images of apple leaves collected fr
 
 ## Results
 The blog post details the results obtained from applying different image processing techniques and classification algorithms to the dataset. It discusses the accuracy, precision, recall, and other performance metrics achieved by each approach and provides insights into the strengths and limitations of each method.
-![Result](https://miro.medium.com/v2/resize:fit:828/format:webp/1*64Y6WydGzT_m55cpJ1K9DA.png)
+![Result](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VgYl11A3PdBKT5dYL4Zwog.jpeg)
 
 
 ## Conclusion
